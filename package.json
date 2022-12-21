@@ -17,8 +17,5 @@
     "name": "Clix",
     "email": "clix.mods.cod@gmail.com",
     "url": "https://www.twitter.com/clixmods"
-  },
-  "dependencies": {
-    "com.xplugin.audioaliases": "https://github.com/clixmods/AudioAliasesUnity.git"
   }
 }
